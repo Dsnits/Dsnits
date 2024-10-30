@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Deepak Kumar
 - 👀 I’m interested in Developement and Innovation
-- 🌱 I’m currently learning LLM
+- 🌱 I’m currently learning LLM 
 - 💞️ I’m looking to collaborate with  Technology Enthusiast
-- 📫 How to reach me via contact : 9471637960 or via E-mail:deepak.nitsikkim@mail.com
+- 📫 How to reach -> via contact : 9471637960 or via E-mail:deepak.nitsikkim@mail.com
   
 
 <!---
